@@ -64,8 +64,8 @@ document.addEventListener('DOMContentLoaded', function () { // Стандарт�
                error++;
             }
          }
-         return error
       }
+       return error
    }
 
 
